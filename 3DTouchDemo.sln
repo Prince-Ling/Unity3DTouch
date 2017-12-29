@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DTouchDemo", "Assembly-CSharp.csproj", "{DDA58F36-2B33-85F3-453D-71F32AED72CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DTouchDemo", "Assembly-CSharp-Editor-firstpass.csproj", "{55BFA3B6-C433-94AF-9142-16182ABD7658}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA58F36-2B33-85F3-453D-71F32AED72CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA58F36-2B33-85F3-453D-71F32AED72CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA58F36-2B33-85F3-453D-71F32AED72CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA58F36-2B33-85F3-453D-71F32AED72CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55BFA3B6-C433-94AF-9142-16182ABD7658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BFA3B6-C433-94AF-9142-16182ABD7658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BFA3B6-C433-94AF-9142-16182ABD7658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BFA3B6-C433-94AF-9142-16182ABD7658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
